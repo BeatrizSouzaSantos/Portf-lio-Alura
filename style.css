@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: #F6F6F6;
+}
+
+strong {
+    color: #22D4FD
+}
+
+span{
+    background-color: #22D4FD;
+    color: white;
+    border-radius: 16px;
+}
